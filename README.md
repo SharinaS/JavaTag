@@ -1,4 +1,5 @@
-# JavaTag: Code 401 Final Project
+# JavaTag
+Click [here](https://youtu.be/-34DL-JdFcE) to go to YouTube to see a demo of the game. The video was taken when the software developers who built JavaTag presented the game to an audience of software developers in November of 2020 at Code Fellows.
 
 ## APK
 To download and play Zombie Tag click the zombie below  
