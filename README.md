@@ -11,6 +11,8 @@ The software developers who built JavaTag presented the game to an audience of s
 ## APK
 To download and play Zombie Tag click the zombie below  
 
+UPDATE: Currently this game is unavailable to play, as the database has been temporarily disabled.
+
 [![Build Status](https://github.com/JavaAwesome/JavaTag/blob/Dev/app/src/main/res/mipmap-hdpi/ic_launcher_round.png)](https://github.com/JavaAwesome/JavaTag/blob/Dev/zombietag.apk)
 
 ## Team Members
