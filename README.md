@@ -1,8 +1,12 @@
 # JavaTag
 ## Game Demo
-[Click here](https://youtu.be/-34DL-JdFcE) to go to YouTube to see a portion of the presentation of JavaTag, during which we demo the game. [Click here](https://youtu.be/css4wkhW7fI) for the screen capture of that demo, which shows in much greater detail the game itself. The videos were taken when the software developers who built JavaTag presented the game to an audience of software developers in November of 2020 at Code Fellows.
+The software developers who built JavaTag presented the game to an audience of software developers in November of 2020 at Code Fellows.
 
+### Screen Capture of the JavaTag Live Demo
 [![Alt text](https://img.youtube.com/vi/css4wkhW7fI/0.jpg)](https://www.youtube.com/watch?v=css4wkhW7fI)
+
+### Video of The Developers and the Live Demo Portion of their Presentation
+[![Alt text](https://img.youtube.com/vi/-34DL-JdFcE/0.jpg)](https://www.youtube.com/watch?v=-34DL-JdFcE)
 
 ## APK
 To download and play Zombie Tag click the zombie below  
