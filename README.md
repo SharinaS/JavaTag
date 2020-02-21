@@ -1,4 +1,15 @@
 # JavaTag
+## About
+A game built for Android that after logging in, allows users to track their own and other playrs live locations on a map. Players are turned into "zombies" when tagged by the "it" players. The app uses a NoSQL database and several AWS services.
+
+## Team Members
+* Ahren Swett
+* James Dansie
+* Jon Veach
+* Quang Nguyen
+* Sarah Fisher
+* Sharina Stubbs
+
 ## Game Demo
 The software developers who built JavaTag presented the game to an audience of software developers in November of 2020 at Code Fellows.
 
@@ -14,14 +25,6 @@ To download and play Zombie Tag click the zombie below
 UPDATE: Currently this game is unavailable to play, as the database has been temporarily disabled.
 
 [![Build Status](https://github.com/JavaAwesome/JavaTag/blob/Dev/app/src/main/res/mipmap-hdpi/ic_launcher_round.png)](https://github.com/JavaAwesome/JavaTag/blob/Dev/zombietag.apk)
-
-## Team Members
-* Ahren Swett
-* James Dansie
-* Jon Veach
-* Quang Nguyen
-* Sarah Fisher
-* Sharina Stubbs
 
 ## Version
 1.0.0
